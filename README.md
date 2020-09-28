@@ -17,7 +17,7 @@ Here you will find my personal Java projects and some JavaScript related things 
 
 3. [Book Database Front end](https://www.github.com/ullenius/book-api-js) - A fault tolerant JavaScript front-end client.
 
-4. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging binary files. Implements [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle) from SOLID-design principles.
+4. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging binary files. Implements [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle) from the [SOLID](https://en.wikipedia.org/wiki/SOLID)-design principles.
 
 5. [vanilla-js](https://www.github.com/ullenius/learn-vanilla-js) - 15 smaller JavaScript projects. Utilizing ES6 features.
 
