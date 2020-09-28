@@ -24,5 +24,5 @@ Here you will find my personal Java projects and some JavaScript related things 
 ### :floppy_disk: Old Java EE projects
 From 2019:
 
-1. URL Shortener - Java EE [url shortener](https://en.wikipedia.org/wiki/URL_shortening) using Redis and MySQL.
-2. TimeStamp Microservice API - Java EE. Converts between [UTC](https://en.wikipedia.org/wiki/UTC) and [Unix time](https://en.wikipedia.org/wiki/Unix_time) using JSON. Includes unit-tests.
+1. [Minihopp](https://www.github.com/ullenius/minihopp) - Java EE. [URL shortener](https://en.wikipedia.org/wiki/URL_shortening) using [Redis](https://en.wikipedia.org/wiki/Redis) and MySQL.
+2. [TimeStamp Microservice API](https://www.github.com/ullenius/timestamp-microservice) - Java EE. Converts between [UTC](https://en.wikipedia.org/wiki/UTC) and [Unix time](https://en.wikipedia.org/wiki/Unix_time) using JSON. Includes unit-tests.
