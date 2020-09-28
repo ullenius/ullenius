@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi I'm Anosh
 
 I am a Full Stack Java Developer focusing on back end development.
