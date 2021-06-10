@@ -1,6 +1,6 @@
 # Hi I'm Anosh
 
-I am a Full Stack Java Developer focusing on back end development.
+I am a Java Developer focusing on back end development.
 
 Here you will find my personal Java projects and some JavaScript related things as well.
 
