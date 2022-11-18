@@ -2,24 +2,28 @@
 
 I am a Java Developer focusing on back end development.
 
-Here you will find my personal Java projects and some JavaScript related things as well.
+Here you will find my personal projects. Mainly Java but I dabble in JavaScript and other languages as well.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ullenius)
 
 
-## 🔭 Of particular interest
+## 🔭 Web stuff
 
-1. [Webshop](https://www.github.com/ullenius/webshop) - Spring Boot webshop using MySQL.
+1. [Webshop](https://www.github.com/ullenius/webshop) - Spring Boot webshop using MySQL. School project.
 
 2. [Book Database](https://www.github.com/ullenius/forverkliga-book-database) - API with expiring cache. Meant to be used for testing REST-clients.
 
 3. [Book Database Front end](https://www.github.com/ullenius/book-api-js) - A fault tolerant JavaScript front-end client.
 
-4. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging binary files. Implements [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle) from the [SOLID](https://en.wikipedia.org/wiki/SOLID)-design principles.
+4. [vanilla-js](https://www.github.com/ullenius/learn-vanilla-js) - 15 smaller JavaScript projects. Utilizing ES6 features.
 
-5. [vanilla-js](https://www.github.com/ullenius/learn-vanilla-js) - 15 smaller JavaScript projects. Utilizing ES6 features.
+## Taggers and libraries
+1. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging gbs-files
+2. [gbsinfo-js](https://github.com/ullenius/gbsinfo-js) - View Game Boy Sound-files (gbs) headers in the browser
+3. [gbstag](https://github.com/ullenius/gbstag) - Java gbs tagger (command-line)
 
-### :floppy_disk: Old Java EE projects
+
+### :floppy_disk: Ancient Java EE projects
 From 2019:
 
 1. [Minihopp](https://www.github.com/ullenius/minihopp) - Java EE. [URL shortener](https://en.wikipedia.org/wiki/URL_shortening) using [Redis](https://en.wikipedia.org/wiki/Redis) and MySQL.
