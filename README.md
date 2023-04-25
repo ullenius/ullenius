@@ -2,9 +2,7 @@
 
 I am a Java Developer focusing on back end development.
 
-Here you will find my personal projects. Mainly Java but I dabble in JavaScript and other languages as well.
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ullenius)
+Here you will find my personal projects. Mainly Java but I dabble in other languages as well.
 
 
 ## 🔭 Web stuff
