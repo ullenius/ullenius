@@ -7,7 +7,7 @@ Here you will find my personal projects. Mainly Java but I dabble in other langu
 
 ## 🔭 Web stuff
 
-1. [Webshop](https://www.github.com/ullenius/webshop) - Spring Boot webshop using MySQL. School project.
+1. [Webshop](https://www.github.com/ullenius/webshop) - Spring Boot webshop using MySQL. Old school project.
 
 2. [Book Database](https://www.github.com/ullenius/forverkliga-book-database) - API with expiring cache. Meant to be used for testing REST-clients.
 
@@ -18,9 +18,10 @@ Here you will find my personal projects. Mainly Java but I dabble in other langu
 5. [vanilla-js](https://www.github.com/ullenius/learn-vanilla-js) - 15 smaller JavaScript projects. Utilizing ES6 features.
 
 ## :computer: Taggers and libraries
-1. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging gbs-files
-2. [gbsinfo-js](https://github.com/ullenius/gbsinfo-js) - View Game Boy Sound-files (gbs) headers in the browser
-3. [gbstag](https://github.com/ullenius/gbstag) - Java gbs tagger (command-line)
+1. [xid6info] - parse extended tags from SPC-files (comand-line)
+2. [gbslib](https://www.github.com/ullenius/gbs-lib) - Java library for tagging gbs-files
+3. [gbsinfo-js](https://github.com/ullenius/gbsinfo-js) - View Game Boy Sound-files (gbs) headers in the browser
+4. [gbstag](https://github.com/ullenius/gbstag) - Java gbs tagger (command-line)
 
 
 ### :floppy_disk: Ancient Java EE projects
